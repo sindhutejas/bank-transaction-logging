@@ -1,0 +1,3 @@
+demo\bankaop\BankService.class
+demo\bankaop\BankAopApplication.class
+demo\bankaop\LoggingAspect.class
